@@ -117,6 +117,19 @@ docker run --rm --shm-size=16g -it \
   --modal T1w \
   --analysis
 ```
+### Command-Line Arguments
+
+| Argument | Type | Description |
+|----------|------|-------------|
+| `--input` | `str` | Absolute path to the input MRI inside the container. In the Docker examples above, this should usually be specified under `/data/`. |
+| `--output` | `str` | Absolute path to the output directory inside the container. In the Docker examples above, this is typically `/out`. |
+| `--gpu` | `str` | GPU device identifier. Use a non-negative integer such as `0` to run on a specific GPU, or use `-1` to force CPU-only execution. |
+| `--mode` | `str` | Model scale used for the final segmentation stage. Supported options are `Base`, `Small`, and `Tiny`. |
+| `--modal` | `str` | Input modality. The current release supports `T1w`. |
+| `--fast` | `flag` | Enables a simplified fast mode that skips several upstream preprocessing and auxiliary estimation steps for quicker inference. |
+| `--analysis` | `flag` | Enables post-segmentation refinement and quantitative analysis. |
+
+
 
 <!-- ROADMAP -->
 ## Roadmap
