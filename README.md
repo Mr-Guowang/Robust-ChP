@@ -64,7 +64,7 @@
 > New features, fixes, and documentation updates will be released here.
 
 | Date | Update |
-|------|--------|
+|----------------------------|----------------------------|
 | 2026-03-14 | Added **Robust-ChP Version 1**. |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
