@@ -70,8 +70,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Robust-ChP integrates a relatively complex preprocessing workflow that depends on multiple external brain image processing tools. To maximize portability and usability, and to spare users from tedious software installation and system-level configuration, we provide a Dockerized version of **Robust-ChP**. Once **Docker** is installed, the entire pipeline can be deployed and executed in just a few straightforward steps.
 
 ### Prerequisites
 
