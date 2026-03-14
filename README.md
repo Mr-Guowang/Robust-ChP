@@ -1,11 +1,11 @@
 <!-- PROJECT SHIELDS -->
-<p align="center">
-  [![Contributors][contributors-shield]][contributors-url] 
-  [![Forks][forks-shield]][forks-url] 
-  [![Stargazers][stars-shield]][stars-url] 
-  [![Issues][issues-shield]][issues-url] 
-  [![Unlicense License][license-shield]][license-url]
-</p>
+
+[![Contributors][contributors-shield]][contributors-url] 
+[![Forks][forks-shield]][forks-url] 
+[![Stargazers][stars-shield]][stars-url] 
+[![Issues][issues-shield]][issues-url] 
+[![Unlicense License][license-shield]][license-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
