@@ -42,21 +42,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Latest Updates">About The Project</a>
+      <a href="#latest-updates">Latest Updates</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#pull-the-docker-image">Pull the Docker image</a></li>
+        <li><a href="#run-the-pipeline">Run the pipeline</a></li>
+        <li><a href="#command-line-arguments">Command-Line Arguments</a></li>
+        <li><a href="#output-directory-structure">Output Directory Structure</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#citation">Citation</a></li>
   </ol>
 </details>
 
