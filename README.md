@@ -1,10 +1,10 @@
 <!-- PROJECT SHIELDS -->
 <p align="center">
-  <a href="[contributors-url]"><img src="[contributors-shield]" alt="Contributors"></a>
-  <a href="[forks-url]"><img src="[forks-shield]" alt="Forks"></a>
-  <a href="[stars-url]"><img src="[stars-shield]" alt="Stargazers"></a>
-  <a href="[issues-url]"><img src="[issues-shield]" alt="Issues"></a>
-  <a href="[license-url]"><img src="[license-shield]" alt="License"></a>
+  [![Contributors][contributors-shield]][contributors-url] 
+  [![Forks][forks-shield]][forks-url] 
+  [![Stargazers][stars-shield]][stars-url] 
+  [![Issues][issues-shield]][issues-url] 
+  [![Unlicense License][license-shield]][license-url]
 </p>
 
 <!-- PROJECT LOGO -->
