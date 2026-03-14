@@ -5,9 +5,6 @@
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -20,14 +17,17 @@
   <p align="center">
     A plug-and-play robust choroid plexus segmentation tool
     <br />
-    <a href="https://github.com/Mr-Guowang/Robust-ChP"><strong>Explore the docs »</strong></a>
+    <br />
+    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge" alt="status badge" />
+    <br />
+    <sub>
+      We will continuously maintain this repository, and the dataset is being prepared for open release.
+    </sub>
     <br />
     <br />
-    <a href="https://github.com/Mr-Guowang/Robust-ChP">View Demo</a>
+    <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset</a>
     &middot;
-    <a href="https://github.com/Mr-Guowang/Robust-ChP/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/Mr-Guowang/Robust-ChP/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Mr-Guowang/Robust-ChP">Paper(under review)</a>
   </p>
 </div>
 
