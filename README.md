@@ -80,7 +80,7 @@
 
 To maximize portability and usability, and to spare users from tedious software installation and system-level configuration, we provide a **prebuilt Docker image**, which means users do **not** need to manually install other dependencies.
 
-#### Prerequisites
+### Prerequisites
 
 Before running the pipeline, please make sure the following are available:
 
@@ -95,12 +95,12 @@ Before running the pipeline, please make sure the following are available:
 - **Input MRI data**  
   This release currently supports **T1-weighted MRI** as input.
 
-#### Pull the Docker image
+### Pull the Docker image
 
 ```sh
 docker pull ggbondzzx/robust-chp:lilab-v1
 ```
-#### Run the pipeline
+### Run the pipeline
 
 A generic example is shown below:
 ```sh
@@ -117,7 +117,7 @@ docker run --rm --shm-size=16g -it \
   --modal T1w \
   --analysis
 ```
-### Command-Line Arguments
+#### Command-Line Arguments
 
 | Argument | Type | Description |
 |----------|------|-------------|
