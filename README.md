@@ -193,7 +193,7 @@ If you find this project useful in your research, please consider citing our wor
   note    = {Manuscript under review},
   url     = {https://github.com/Mr-Guowang/Robust-ChP}
 }
-
+```
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Mr-Guowang/Robust-ChP.svg?style=for-the-badge
