@@ -15,11 +15,7 @@
   <h3 align="center">A plug-and-play robust choroid plexus segmentation tool</h3>
 
   <p align="center">
-    A plug-and-play robust choroid plexus segmentation tool
-    <br />
-    <sub>
-      We will continuously maintain this repository, and the dataset is being prepared for open release.
-    </sub>
+    We will continuously maintain this repository, and the dataset is being prepared for open release.
     <br />
     <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset</a>
     &middot;
