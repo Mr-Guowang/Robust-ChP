@@ -102,14 +102,7 @@ docker pull ggbondzzx/robust-chp:lilab-v1
 ```
 #### Run the pipeline
 
-After pulling the Docker image, users can launch the pipeline by mounting three required paths into the container:
-
-1. **the FreeSurfer license file**
-2. **the input data directory**
-3. **the output directory**
-
 A generic example is shown below:
-
 ```sh
 docker run --rm --shm-size=16g -it \
   --mount type=bind,src="<PATH_TO_LICENSE>/license.txt",dst=/opt/freesurfer/license.txt,readonly \
@@ -123,7 +116,7 @@ docker run --rm --shm-size=16g -it \
   --mode <MODEL_SCALE> \
   --modal T1w \
   --analysis
-
+```
 
 <!-- ROADMAP -->
 ## Roadmap
