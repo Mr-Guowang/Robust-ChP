@@ -17,13 +17,9 @@
   <p align="center">
     A plug-and-play robust choroid plexus segmentation tool
     <br />
-    <br />
-    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-blue?style=for-the-badge" alt="status badge" />
-    <br />
     <sub>
       We will continuously maintain this repository, and the dataset is being prepared for open release.
     </sub>
-    <br />
     <br />
     <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset</a>
     &middot;
