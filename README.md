@@ -104,7 +104,7 @@ docker pull ggbondzzx/robust-chp:lilab-v1
 
 A generic example is shown below:
 ```sh
-docker run --rm --shm-size=16g -it \
+docker run --rm -it \
   --mount type=bind,src="<PATH_TO_LICENSE>/license.txt",dst=/opt/freesurfer/license.txt,readonly \
   --mount type=bind,src="<PATH_TO_INPUT_DIR>",dst=/data,readonly \
   --mount type=bind,src="<PATH_TO_OUTPUT_DIR>",dst=/out \
