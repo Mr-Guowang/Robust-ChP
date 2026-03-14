@@ -87,6 +87,8 @@ Before running the pipeline, please make sure the following are available:
 - **Docker**  
   Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) on Windows/macOS, or Docker Engine on Linux.
 
+  
+
 - **A valid FreeSurfer license**  
   FreeSurfer is required by the preprocessing workflow. Please obtain a valid `license.txt` from the [official FreeSurfer registration page](https://surfer.nmr.mgh.harvard.edu/registration.html).
 
@@ -97,7 +99,7 @@ Before running the pipeline, please make sure the following are available:
 
 ```sh
 docker pull ggbondzzx/robust-chp:lilab-v1
-
+```
 
 <!-- ROADMAP -->
 ## Roadmap
