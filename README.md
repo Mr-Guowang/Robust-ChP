@@ -180,7 +180,19 @@ This project was developed with reference to the following excellent open-source
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CITATION -->
+## Citation
 
+If you find this project useful in your research, please consider citing our work:
+
+```bibtex
+@misc{robustchp2026,
+  title   = {Robust-ChP: A Plug-and-Play Robust Choroid Plexus Segmentation Tool},
+  author  = {Guowang and colleagues},
+  year    = {2026},
+  note    = {Manuscript under review},
+  url     = {https://github.com/Mr-Guowang/Robust-ChP}
+}
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
