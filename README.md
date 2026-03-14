@@ -100,6 +100,30 @@ Before running the pipeline, please make sure the following are available:
 ```sh
 docker pull ggbondzzx/robust-chp:lilab-v1
 ```
+#### Run the pipeline
+
+After pulling the Docker image, users can launch the pipeline by mounting three required paths into the container:
+
+1. **the FreeSurfer license file**
+2. **the input data directory**
+3. **the output directory**
+
+A generic example is shown below:
+
+```sh
+docker run --rm --shm-size=16g -it \
+  --mount type=bind,src="<PATH_TO_LICENSE>/license.txt",dst=/opt/freesurfer/license.txt,readonly \
+  --mount type=bind,src="<PATH_TO_INPUT_DIR>",dst=/data,readonly \
+  --mount type=bind,src="<PATH_TO_OUTPUT_DIR>",dst=/out \
+  ggbondzzx/robust-chp:lilab-v1 \
+  run_robustchp.sh \
+  --input /data/<INPUT_T1W_FILE>.nii.gz \
+  --output /out \
+  --gpu <GPU_ID> \
+  --mode <MODEL_SCALE> \
+  --modal T1w \
+  --analysis
+
 
 <!-- ROADMAP -->
 ## Roadmap
