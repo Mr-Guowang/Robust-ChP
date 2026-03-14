@@ -13,7 +13,7 @@
   <a href="https://github.com/Mr-Guowang/Robust-ChP/issues">
     <img src="https://img.shields.io/github/issues/Mr-Guowang/Robust-ChP.svg?style=for-the-badge" alt="Issues">
   </a>
-  <a href="https://github.com/Mr-Guowang/Robust-ChP/blob/main/LICENSE">
+  <a href="https://github.com/Mr-Guowang/Robust-ChP/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/github/license/Mr-Guowang/Robust-ChP.svg?style=for-the-badge" alt="License">
   </a>
 </p>
