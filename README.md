@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mr-Guowang/Robust-ChP">
-    <img src="logo.png" alt="Logo" width="180" height="180">
+    <img src="logo.png" alt="Logo" width="600" height="600">
   </a>
 
   <h3 align="center">A plug-and-play robust choroid plexus segmentation tool</h3>
