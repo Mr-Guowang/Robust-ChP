@@ -129,8 +129,21 @@ docker run --rm -it \
 | `--fast` | `flag` | Enables a simplified fast mode that skips several upstream preprocessing and auxiliary estimation steps for quicker inference. |
 | `--analysis` | `flag` | Enables post-segmentation refinement and quantitative analysis. |
 
+#### Output Directory Structure
 
+Robust-ChP writes intermediate preprocessing results, segmentation outputs, and optional quantitative statistics into a structured output directory under the user-specified `--output` path.
 
+A typical output layout is shown below:
+
+```text
+<OUTPUT_DIR>/
+├── step_4_Robust-ChP/
+│   ├── ChP/
+│   │   ├── chp.nii.gz
+│   │   └── chp4aseg.nii.gz (Follow Freesurfer's lookuptable)         
+│   └── stats/
+│       └── stats.json (Morphological quantitative indicators)                  
+```
 <!-- ROADMAP -->
 ## Roadmap
 
