@@ -131,7 +131,7 @@ docker run --rm -it \
 
 #### Output Directory Structure
 
-Robust-ChP writes intermediate preprocessing results, segmentation outputs, and optional quantitative statistics into a structured output directory under the user-specified `--output` path.
+Robust-ChP writes intermediate segmentation outputs, and optional quantitative statistics into a structured output directory under the user-specified `--output` path.
 
 A typical output layout is shown below:
 
