@@ -70,25 +70,25 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Robust-ChP integrates a relatively complex preprocessing workflow that depends on multiple external brain image processing tools. To maximize portability and usability, and to spare users from tedious software installation and system-level configuration, we provide a Dockerized version of **Robust-ChP**. Once **Docker** is installed, the entire pipeline can be deployed and executed in just a few straightforward steps.
+To maximize portability and usability, and to spare users from tedious software installation and system-level configuration, we provide a **prebuilt Docker image**, which means users do **not** need to manually install other dependencies.
 
-### Prerequisites
+#### Prerequisites
 
-Before proceeding, please ensure that Docker has been properly installed and is available in your system environment. Docker serves as the primary runtime dependency for this project and is required for reproducing the intended execution workflow.
+Before running the pipeline, please make sure the following are available:
 
-- Install [Docker](https://www.docker.com/get-started)
-- Verify the installation:
-  ```sh
-  docker --version
-  ```
+- **Docker**  
+  Install [Docker Desktop](https://www.docker.com/products/docker-desktop/) on Windows/macOS, or Docker Engine on Linux.
 
-### Installation
+- **A valid FreeSurfer license**  
+  FreeSurfer is required by the preprocessing workflow. Please obtain a valid `license.txt` from the [official FreeSurfer registration page](https://surfer.nmr.mgh.harvard.edu/registration.html).
 
-This project is distributed as a prebuilt Docker image, so no manual environment setup is required.
+- **Input MRI data**  
+  This release currently supports **T1-weighted MRI** as input.
 
-1. Pull the Docker image
-   ```sh
-   docker pull ggbondzzx/robust-chp:lilab-v1
+#### Pull the Docker image
+
+```sh
+docker pull ggbondzzx/robust-chp:lilab-v1
 
 ### Usage
 
