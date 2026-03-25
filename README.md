@@ -31,7 +31,7 @@
   <p align="center">
     We will continuously maintain this repository, and the dataset is being prepared for open release.
     <br />
-    <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset</a>
+    <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset(soon be open source together with clinical research)</a>
     &middot;
     <a href="https://github.com/Mr-Guowang/Robust-ChP">Paper(under review)</a>
   </p>
