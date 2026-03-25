@@ -29,7 +29,7 @@
   <h3 align="center">A plug-and-play robust choroid plexus segmentation tool</h3>
 
   <p align="center">
-    We will continuously maintain this repository, and the dataset is being prepared for open release.
+    The complete code and more functions will be open-source after the paper is accepted.
     <br />
     <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset(soon be open source together with clinical research)</a>
     &middot;
@@ -64,8 +64,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Latest Updates
 
-> **Maintenance Notice**  
-> This repository is under active development and continuous maintenance.  
+> **Maintenance Notice**
+> This repository is under continuous maintenance.  
 > New features, fixes, and documentation updates will be released here.
 
 | Date | Update |
