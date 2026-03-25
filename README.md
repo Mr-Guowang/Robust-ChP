@@ -99,7 +99,7 @@ Before running the pipeline, please make sure the following are available:
 ### Pull the Docker image
 
 ```sh
-docker pull ggbondzzx/robust-chp:lilab-v1
+docker pull ggbondzzx/robust-chp:lilab-v1.1
 ```
 ### Run the pipeline
 
