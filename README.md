@@ -114,7 +114,6 @@ docker run --rm -it \
   --input /data/<INPUT_T1W_FILE>.nii.gz \
   --output /out \
   --gpu <GPU_ID> \
-  --mode <MODEL_SCALE> \
   --modal T1w \
   --analysis
 ```
