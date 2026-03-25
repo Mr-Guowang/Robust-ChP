@@ -70,7 +70,7 @@
 
 | Date | Update |
 |----------------------------|----------------------------|
-| 2026-03-25 | Replace ants with a deep learning method **synthmorph**. Python code will be updated soon. |
+| 2026-03-25 | Added a deep learning method **synthmorph**  (substitute for ANTs, faster). |
 | 2026-03-14 | Added **Robust-ChP Version 1**. |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
