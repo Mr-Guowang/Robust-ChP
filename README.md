@@ -29,7 +29,7 @@
   <h3 align="center">A plug-and-play robust choroid plexus segmentation tool</h3>
 
   <p align="center">
-    The complete code and more functions will be open-source after the paper is accepted.
+    The complete model weights and Docker image will be open-source after the paper is accepted.
     <br />
     <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset(soon be open source together with clinical research)</a>
     &middot;
