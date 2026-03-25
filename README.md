@@ -109,7 +109,7 @@ docker run --rm -it \
   --mount type=bind,src="<PATH_TO_LICENSE>/license.txt",dst=/opt/freesurfer/license.txt,readonly \
   --mount type=bind,src="<PATH_TO_INPUT_DIR>",dst=/data,readonly \
   --mount type=bind,src="<PATH_TO_OUTPUT_DIR>",dst=/out \
-  ggbondzzx/robust-chp:lilab-v1 \
+  ggbondzzx/robust-chp:lilab-v1.1 \
   run_robustchp.sh \
   --input /data/<INPUT_T1W_FILE>.nii.gz \
   --output /out \
