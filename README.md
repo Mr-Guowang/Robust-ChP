@@ -165,8 +165,18 @@ Please first clone the repository and enter the Python package directory:
 
 ```sh
 git clone https://github.com/Mr-Guowang/Robust-ChP.git
-cd Robust-ChP/SPIN-ChPSeg
+cd ./Robust-ChP/SPIN-ChPSeg
 pip install -e .
+```
+
+### Installation
+Once the environment is installed, you can directly execute the following commands:
+```sh
+python ./Robust-ChP/SPIN-ChPSeg/ChP_Net/run_in_ants.py --[Arguments]
+```
+The [arguments] is exactly the same as that in docker. You can also view help:
+```sh
+python ./Robust-ChP/SPIN-ChPSeg/ChP_Net/run_in_ants.py -h
 ```
 <!-- CONTRIBUTING -->
 ## Contributing
