@@ -70,6 +70,7 @@
 
 | Date | Update |
 |----------------------------|----------------------------|
+| 2026-03-30 | Updated version of Python implementation. |
 | 2026-03-25 | Added a deep learning method **synthmorph**  (substitute for ANTs, faster). |
 | 2026-03-14 | Added **Robust-ChP Version 1**. |
 
