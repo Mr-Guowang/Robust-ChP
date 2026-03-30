@@ -88,7 +88,7 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## GETTING STARTED VIA DOCKER
 
 To maximize portability and usability, and to spare users from tedious software installation and system-level configuration, we provide a **prebuilt Docker image**, which means users do **not** need to manually install other dependencies.
 
