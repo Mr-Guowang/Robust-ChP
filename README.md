@@ -158,8 +158,7 @@ For users who prefer a native Python workflow, we also provide a Python-based ex
 > ⚠️ **Notice**  
 > The **structural subspace**, **ChP Atlas**, and **pretrained model weights** are not included in this release.  
 > They will be made publicly available after the paper is officially accepted.
-> This project is partially built upon the [nnU-Net framework](https://github.com/MIC-DKFZ/nnUNet).  
-> Please also refer to the official nnU-Net repository for environment preparation and dependency details when necessary.
+
 ### Installation
 
 Please first clone the repository and enter the Python package directory:
@@ -169,7 +168,8 @@ git clone https://github.com/Mr-Guowang/Robust-ChP.git
 cd ./Robust-ChP/SPIN-ChPSeg
 pip install -e .
 ```
-
+> This project is partially built upon the [nnU-Net framework](https://github.com/MIC-DKFZ/nnUNet).  
+> Please also refer to the official nnU-Net repository for environment preparation and dependency details when necessary.
 ### Installation
 Once the environment is installed, you can directly execute the following commands:
 ```sh
