@@ -57,11 +57,7 @@
 <li>
   <a href="#getting-started-via-python">Getting Started via Python</a>
   <ul>
-    <li><a href="#python-prerequisites">Prerequisites</a></li>
-    <li><a href="#clone-the-repository">Clone the repository</a></li>
-    <li><a href="#install-dependencies">Install dependencies</a></li>
-    <li><a href="#run-the-python-pipeline">Run the pipeline</a></li>
-    <li><a href="#python-command-line-arguments">Command-Line Arguments</a></li>
+
   </ul>
 </li>
     <li><a href="#contributing">Contributing</a></li>
