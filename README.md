@@ -167,7 +167,7 @@ Please first clone the repository and enter the Python package directory:
 git clone https://github.com/Mr-Guowang/Robust-ChP.git
 cd Robust-ChP/SPIN-ChPSeg
 pip install -e .
-
+```
 <!-- CONTRIBUTING -->
 ## Contributing
 
