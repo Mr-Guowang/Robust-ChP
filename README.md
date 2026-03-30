@@ -49,8 +49,8 @@
   <ul>
     <li><a href="#docker-prerequisites">Prerequisites</a></li>
     <li><a href="#pull-the-docker-image">Pull the Docker image</a></li>
-    <li><a href="#run-the-docker-pipeline">Run the pipeline</a></li>
-    <li><a href="#docker-command-line-arguments">Command-Line Arguments</a></li>
+    <li><a href="#run-the-pipeline">Run the pipeline</a></li>
+    <li><a href="#command-line-arguments">Command-Line Arguments</a></li>
     <li><a href="#output-directory-structure">Output Directory Structure</a></li>
   </ul>
 </li>
