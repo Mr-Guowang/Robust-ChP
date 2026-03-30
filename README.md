@@ -31,7 +31,7 @@
   <p align="center">
     The complete model weights and Docker image will be open-source after the paper accepted.
     <br />
-    <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset(soon be open source together with clinical research)</a>
+    <a href="https://github.com/Mr-Guowang/Robust-ChP">Dataset(soon be open source in *Scientific Data*)</a>
     &middot;
     <a href="https://github.com/Mr-Guowang/Robust-ChP">Paper(under review)</a>
   </p>
