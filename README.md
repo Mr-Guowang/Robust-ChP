@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Latest Updates
 
-> **Maintenance Notice**
+**Maintenance Notice**
 > This repository is under continuous maintenance.  
 > New features, fixes, and documentation updates will be released here.
 
