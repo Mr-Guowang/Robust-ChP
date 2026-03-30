@@ -153,6 +153,10 @@ A typical output layout is shown below:
 <!-- GETTING STARTED VIA PYTHON -->
 ## GETTING STARTED VIA PYTHON
 
+> ⚠️ **Notice**  
+> The **structural subspace**, **ChP Atlas**, and **pretrained model weights** are not included in this release.  
+> They will be made publicly available after the paper is officially accepted.
+> 
 For users who prefer a native Python workflow, we also provide a Python-based execution mode for local development, debugging, and customized integration into existing analysis pipelines.
 
 > **Note**  
