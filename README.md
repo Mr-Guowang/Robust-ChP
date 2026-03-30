@@ -170,7 +170,7 @@ pip install -e .
 ```
 > This project is partially built upon the [nnU-Net framework](https://github.com/MIC-DKFZ/nnUNet).  
 > Please also refer to the official nnU-Net repository for environment preparation and dependency details when necessary.
-### Installation
+### Run the pipeline
 Once the environment is installed, you can directly execute the following commands:
 ```sh
 python ./Robust-ChP/SPIN-ChPSeg/ChP_Net/run_in_ants.py --[Arguments]
