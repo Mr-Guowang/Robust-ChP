@@ -150,6 +150,24 @@ A typical output layout is shown below:
 │       └── stats.json (Morphological quantitative indicators)                  
 ```
 
+<!-- GETTING STARTED VIA PYTHON -->
+## GETTING STARTED VIA PYTHON
+
+For users who prefer a native Python workflow, we also provide a Python-based execution mode for local development, debugging, and customized integration into existing analysis pipelines.
+
+> **Note**  
+> This project is partially built upon the [nnU-Net framework](https://github.com/MIC-DKFZ/nnUNet).  
+> Please also refer to the official nnU-Net repository for environment preparation and dependency details when necessary.
+
+### Installation
+
+Please first clone the repository and enter the Python package directory:
+
+```sh
+git clone https://github.com/Mr-Guowang/Robust-ChP.git
+cd Robust-ChP/SPIN-ChPSeg
+pip install -e .
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
