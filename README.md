@@ -27,6 +27,7 @@
   </a>
 
   <h3 align="center">A plug-and-play robust choroid plexus segmentation tool</h3>
+  <h3 align="center">[Support segmentation and measurement of choroid plexus (volume, surface area, etc.)]</h3>
 
   <p align="center">
     The complete model weights and Docker image will be open-source after the paper accepted. The dataset will be made available on request(Please contact the corresponding author by email). 
